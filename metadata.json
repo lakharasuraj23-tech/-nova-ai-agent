@@ -1,0 +1,6 @@
+{
+  "name": "NOVA - Personal AI Assistant",
+  "description": "Mobile-first futuristic personal AI assistant with dual Hindi & English conversational intelligence, task planner, memory bank, and USB data backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
